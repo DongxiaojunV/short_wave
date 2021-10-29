@@ -1,0 +1,12 @@
+.\short_wave\obj\port.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM3\port.c
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\short_wave\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\short_wave\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\short_wave\obj\port.o: ..\..\User\FreeRTOSConfig.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\projdefs.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\portable.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM3\portmacro.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\task.h
+.\short_wave\obj\port.o: ..\..\FreeRTOS\include\list.h

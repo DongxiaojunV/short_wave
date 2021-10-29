@@ -1,0 +1,15 @@
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\timers.c
+.\short_wave\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\short_wave\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\short_wave\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\short_wave\obj\timers.o: ..\..\User\FreeRTOSConfig.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\projdefs.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\portable.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM3\portmacro.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\task.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\list.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\queue.h
+.\short_wave\obj\timers.o: ..\..\FreeRTOS\include\timers.h
